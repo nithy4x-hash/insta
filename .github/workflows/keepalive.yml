@@ -1,0 +1,44 @@
+name: Keep-alive timer
+
+# The main timer. GitHub's own cron never fired on this repo (30 Sep 2026),
+# so this workflow sleeps until shortly before the next post, starts
+# post.yml, then starts a fresh copy of itself. A workflow_dispatch made
+# with the built-in GITHUB_TOKEN is allowed to start new runs, so the chain
+# needs no key and no service outside GitHub. See next_wake.py.
+# Start it once by hand (Actions > Keep-alive timer > Run workflow); the
+# backup cron below restarts it if the chain ever breaks and cron works.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "29 */6 * * *"
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: keepalive
+  cancel-in-progress: true
+
+jobs:
+  wait-and-start:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Work out the next wake-up
+        id: plan
+        run: python next_wake.py | tee -a "$GITHUB_OUTPUT"
+      - name: Sleep until then
+        run: sleep ${{ steps.plan.outputs.sleep }}
+      - name: Start the poster
+        if: steps.plan.outputs.post == 'yes'
+        run: |
+          gh workflow run post.yml --repo "$REPO" --ref "$GITHUB_REF_NAME"
+          sleep 240   # let it save "posted" before the next timer looks
+      - name: Hand over to a fresh timer
+        if: steps.plan.outputs.none != 'yes'
+        run: gh workflow run keepalive.yml --repo "$REPO" --ref "$GITHUB_REF_NAME"
