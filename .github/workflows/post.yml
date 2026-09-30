@@ -1,0 +1,45 @@
+name: Post to Instagram
+
+# Runs at :07, :27 and :47 past every hour from 04:07 to 16:47 UTC
+# (09:37 to 22:17 India time) and posts whatever is due in schedule.json.
+# Posts are scheduled 30 minutes before their "by" time, because GitHub can
+# start scheduled runs late (often 5-15 minutes, more at busy times) and
+# avoids the top of the hour, which is its busiest moment.
+on:
+  schedule:
+    - cron: "7,27,47 4-16 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.32.3
+      - name: Post anything due
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+        run: python post_due.py
+      - name: Save the updated schedule
+        if: always()
+        run: |
+          if ! git diff --quiet schedule.json; then
+            git config user.name "gooseecrumbs-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add schedule.json
+            git commit -m "Update post status"
+            git push
+          fi

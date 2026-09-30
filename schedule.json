@@ -1,0 +1,80 @@
+[
+  {
+    "id": "day01",
+    "type": "reel",
+    "publish_at": "2026-09-30T12:30:00+05:30",
+    "status": "pending",
+    "caption": "The comeback starts with one chapter. Which one have you been avoiding? 👇\n\n#studymotivation #collegelife #studentlife #discipline #studygram",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790718500/gooseecrumbs_scheduled/qrvnlcfzidgdsewku5mk.mp4",
+        "public_id": "gooseecrumbs_scheduled/qrvnlcfzidgdsewku5mk"
+      }
+    ],
+    "source": [
+      "Day 01 - Nobody is coming - gooseecrumbs 1080x1920 (option B, no sparkle).mp4"
+    ]
+  },
+  {
+    "id": "day02",
+    "type": "carousel",
+    "publish_at": "2026-09-30T16:30:00+05:30",
+    "status": "awaiting_approval",
+    "caption": "Be honest, which one are you? Tag your group project team 😭\n\n#collegelife #groupproject #studentlife #collegememes #relatable",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718505/gooseecrumbs_scheduled/fhodjosogjlyncr93g9n.jpg",
+        "public_id": "gooseecrumbs_scheduled/fhodjosogjlyncr93g9n"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718508/gooseecrumbs_scheduled/fgqgeme11uxmv67hwxal.jpg",
+        "public_id": "gooseecrumbs_scheduled/fgqgeme11uxmv67hwxal"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718510/gooseecrumbs_scheduled/frf3qe6wcrl4lbphwyou.jpg",
+        "public_id": "gooseecrumbs_scheduled/frf3qe6wcrl4lbphwyou"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718513/gooseecrumbs_scheduled/hhkhmotkn96q4vpkvher.jpg",
+        "public_id": "gooseecrumbs_scheduled/hhkhmotkn96q4vpkvher"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718515/gooseecrumbs_scheduled/oubxb69fhxsozlvocffr.jpg",
+        "public_id": "gooseecrumbs_scheduled/oubxb69fhxsozlvocffr"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718517/gooseecrumbs_scheduled/c9h9o2p1peltmtyd5q3n.jpg",
+        "public_id": "gooseecrumbs_scheduled/c9h9o2p1peltmtyd5q3n"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790718519/gooseecrumbs_scheduled/jai9hj4uc8f255girfgh.jpg",
+        "public_id": "gooseecrumbs_scheduled/jai9hj4uc8f255girfgh"
+      }
+    ],
+    "source": [
+      "slide_01.jpg",
+      "slide_02.jpg",
+      "slide_03.jpg",
+      "slide_04.jpg",
+      "slide_05.jpg",
+      "slide_06.jpg",
+      "slide_07.jpg"
+    ]
+  },
+  {
+    "id": "day03",
+    "type": "reel",
+    "publish_at": "2026-09-30T20:30:00+05:30",
+    "status": "awaiting_approval",
+    "caption": "5 rules that make every semester easier. Save it and thank yourself later 📌\n\n#studytips #collegelife #semester #studentlife #productivity",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790718524/gooseecrumbs_scheduled/d7tyeqvfviwoxqzz8xby.mp4",
+        "public_id": "gooseecrumbs_scheduled/d7tyeqvfviwoxqzz8xby"
+      }
+    ],
+    "source": [
+      "Day 03 - 5 semester rules - gooseecrumbs 1080x1920.mp4"
+    ]
+  }
+]
