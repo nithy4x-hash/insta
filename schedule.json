@@ -87,7 +87,7 @@
     "id": "day04",
     "type": "photo",
     "publish_at": "2026-09-30T18:10:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "One page today is better than zero pages. Keep going 🌅\n\n#motivation #studymotivation #progress #studentlife #library",
     "media": [
       {
@@ -97,7 +97,9 @@
     ],
     "source": [
       "slide_01.jpg"
-    ]
+    ],
+    "posted_at": "2026-09-30T12:40:15+00:00",
+    "permalink": "https://www.instagram.com/p/Dd6WxCtlKdL/"
   },
   {
     "id": "day05",
