@@ -27,6 +27,17 @@ Notes:
   - Photo and carousel images must be JPEG.
   - Never retry a publish blindly: if media_publish fails, the post is marked
     "failed" so a human checks the profile first (a timeout can still post).
+  - GitHub's own timer (cron) never fired on this repo on 30 Sep 2026 - zero
+    scheduled runs in 5 hours, settings all correct. GitHub's cron is best
+    effort only. The real timer is an outside service (cron-job.org) that
+    starts this workflow a few minutes before each post; GitHub's cron is kept
+    as a backup.
+  - So posts land on time even when the trigger comes early, a run waits (up
+    to WAIT_AHEAD minutes) for a post that is almost due, then posts it.
+  - Two runs close together could both see the same post as pending (the
+    second checked out before the first saved "posted"). Guards: the workflow
+    pulls the newest schedule before running and rebases before saving, and
+    this script skips a post whose caption is already on the profile.
   - The Instagram token lasts 60 days (generated 30 Sep 2026, so it must be
     regenerated before late November 2026).
 """
@@ -41,6 +52,7 @@ import time
 import requests
 
 GRAPH = "https://graph.instagram.com/v23.0"
+WAIT_AHEAD = 15  # minutes
 SCHEDULE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "schedule.json")
 
 
@@ -69,6 +81,15 @@ def wait_ready(cid):
             raise RuntimeError("Instagram could not process media: %s" % s.get("status"))
         time.sleep(10)
     raise RuntimeError("Instagram still processing after 10 minutes")
+
+
+def already_posted(uid, caption):
+    """Link of a recent post with this exact caption, or None."""
+    items = ig("GET", "/%s/media" % uid, fields="caption,permalink", limit=10).get("data", [])
+    for m in items:
+        if (m.get("caption") or "").strip() == caption.strip():
+            return m.get("permalink") or "(link unknown)"
+    return None
 
 
 def cloudinary_delete(public_id, rtype):
@@ -114,10 +135,26 @@ def main():
     if waiting:
         print("not approved yet (will not post):", ", ".join(waiting))
     if not due:
-        print("nothing due at %s" % now.isoformat(timespec="minutes"))
-        return
+        soon = [p for p in posts if p["status"] == "pending"
+                and dt.datetime.fromisoformat(p["publish_at"]) <= now + dt.timedelta(minutes=WAIT_AHEAD)]
+        if not soon:
+            print("nothing due at %s" % now.isoformat(timespec="minutes"))
+            return
+        post = min(soon, key=lambda p: p["publish_at"])
+        wait = (dt.datetime.fromisoformat(post["publish_at"]) - now).total_seconds()
+        print("%s is due in %.0f s: waiting" % (post["id"], wait))
+        time.sleep(max(0, wait))
+        due = [post]
     post = min(due, key=lambda p: p["publish_at"])
     print("posting %s (%s, due %s)" % (post["id"], post["type"], post["publish_at"]))
+
+    already = already_posted(uid, post["caption"])
+    if already:  # an earlier run posted it but could not save the status
+        post["status"] = "posted"
+        post["permalink"] = already
+        save(posts)
+        print("ALREADY ON PROFILE %s: %s (not posting again)" % (post["id"], already))
+        return
 
     try:
         cid = create(post, uid)
