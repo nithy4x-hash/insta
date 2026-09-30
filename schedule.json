@@ -110,6 +110,22 @@
     ]
   },
   {
+    "id": "day06",
+    "type": "reel",
+    "publish_at": "2026-10-03T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Send this to the friend who thinks they're behind 🤍\n\n#motivation #studentlife #selfgrowth #mindset #collegelife",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790749875/gooseecrumbs_scheduled/g8wmoqiy2uufz2pfnrur.mp4",
+        "public_id": "gooseecrumbs_scheduled/g8wmoqiy2uufz2pfnrur"
+      }
+    ],
+    "source": [
+      "Day 06 - You're not behind - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
     "id": "day07",
     "type": "carousel",
     "publish_at": "2026-10-04T10:30:00+05:30",
@@ -153,6 +169,22 @@
       "slide_05.jpg",
       "slide_06.jpg",
       "slide_07.jpg"
+    ]
+  },
+  {
+    "id": "day08",
+    "type": "reel",
+    "publish_at": "2026-10-05T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Don't wait to feel ready. Just show up. 💪\n\n#discipline #studymotivation #morningroutine #collegelife #mindset",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790749883/gooseecrumbs_scheduled/ha0afiyt7x0gu7w3anuf.mp4",
+        "public_id": "gooseecrumbs_scheduled/ha0afiyt7x0gu7w3anuf"
+      }
+    ],
+    "source": [
+      "Day 08 - Discipline - gooseecrumbs 1080x1920.mp4"
     ]
   },
   {
