@@ -94,6 +94,52 @@
     ]
   },
   {
+    "id": "day07",
+    "type": "carousel",
+    "publish_at": "2026-10-04T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Which one are you trying first? Save this for exam season 📚\n\n#studytips #studymethods #studygram #examprep #studentlife",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748527/gooseecrumbs_scheduled/mzk4dnzgfvoangilhhmr.jpg",
+        "public_id": "gooseecrumbs_scheduled/mzk4dnzgfvoangilhhmr"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748530/gooseecrumbs_scheduled/exrpgraugwumsxcytp12.jpg",
+        "public_id": "gooseecrumbs_scheduled/exrpgraugwumsxcytp12"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748532/gooseecrumbs_scheduled/dhqaylyw4axryemlcmgj.jpg",
+        "public_id": "gooseecrumbs_scheduled/dhqaylyw4axryemlcmgj"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748535/gooseecrumbs_scheduled/ttpt7phdrgs9akksizuy.jpg",
+        "public_id": "gooseecrumbs_scheduled/ttpt7phdrgs9akksizuy"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748538/gooseecrumbs_scheduled/nzqepabfhozslkghevqv.jpg",
+        "public_id": "gooseecrumbs_scheduled/nzqepabfhozslkghevqv"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748540/gooseecrumbs_scheduled/vymqcrmx45d8pg82q0nn.jpg",
+        "public_id": "gooseecrumbs_scheduled/vymqcrmx45d8pg82q0nn"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748543/gooseecrumbs_scheduled/z8onshpfyco5eparw36u.jpg",
+        "public_id": "gooseecrumbs_scheduled/z8onshpfyco5eparw36u"
+      }
+    ],
+    "source": [
+      "slide_01.jpg",
+      "slide_02.jpg",
+      "slide_03.jpg",
+      "slide_04.jpg",
+      "slide_05.jpg",
+      "slide_06.jpg",
+      "slide_07.jpg"
+    ]
+  },
+  {
     "id": "day09",
     "type": "photo",
     "publish_at": "2026-10-06T10:30:00+05:30",
@@ -107,6 +153,52 @@
     ],
     "source": [
       "slide_01.jpg"
+    ]
+  },
+  {
+    "id": "day12",
+    "type": "carousel",
+    "publish_at": "2026-10-09T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Freshers, save this. Seniors, what would you add? 👇\n\n#freshers #collegetips #firstyear #studentlife #collegelife",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748547/gooseecrumbs_scheduled/mbvh3ogfvwrhidu3rtwe.jpg",
+        "public_id": "gooseecrumbs_scheduled/mbvh3ogfvwrhidu3rtwe"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748549/gooseecrumbs_scheduled/xjarpc2bngtpdszcf5v8.jpg",
+        "public_id": "gooseecrumbs_scheduled/xjarpc2bngtpdszcf5v8"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748552/gooseecrumbs_scheduled/bvuobp5yfxoprtpxgrud.jpg",
+        "public_id": "gooseecrumbs_scheduled/bvuobp5yfxoprtpxgrud"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748555/gooseecrumbs_scheduled/uf9lmlabu7emg5egkvdw.jpg",
+        "public_id": "gooseecrumbs_scheduled/uf9lmlabu7emg5egkvdw"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748558/gooseecrumbs_scheduled/lvadzbarmrbimy0gaffy.jpg",
+        "public_id": "gooseecrumbs_scheduled/lvadzbarmrbimy0gaffy"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748561/gooseecrumbs_scheduled/xmxvjhto40ymx81pipvi.jpg",
+        "public_id": "gooseecrumbs_scheduled/xmxvjhto40ymx81pipvi"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748564/gooseecrumbs_scheduled/r6x1wgnc00q4aggyxuen.jpg",
+        "public_id": "gooseecrumbs_scheduled/r6x1wgnc00q4aggyxuen"
+      }
+    ],
+    "source": [
+      "slide_01.jpg",
+      "slide_02.jpg",
+      "slide_03.jpg",
+      "slide_04.jpg",
+      "slide_05.jpg",
+      "slide_06.jpg",
+      "slide_07.jpg"
     ]
   },
   {
@@ -126,6 +218,52 @@
     ]
   },
   {
+    "id": "day17",
+    "type": "carousel",
+    "publish_at": "2026-10-14T10:30:00+05:30",
+    "status": "pending",
+    "caption": "What's the one thing your dorm can't survive without? 👇\n\n#dormlife #hostellife #collegelife #studentlife #relatable",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748567/gooseecrumbs_scheduled/wouasyi5gyeqaa48czez.jpg",
+        "public_id": "gooseecrumbs_scheduled/wouasyi5gyeqaa48czez"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748570/gooseecrumbs_scheduled/sgv2twdvz6nafzxufspl.jpg",
+        "public_id": "gooseecrumbs_scheduled/sgv2twdvz6nafzxufspl"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748573/gooseecrumbs_scheduled/atlhqybh40hyp2ivuahh.jpg",
+        "public_id": "gooseecrumbs_scheduled/atlhqybh40hyp2ivuahh"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748576/gooseecrumbs_scheduled/ajeyas29tzflebjscglm.jpg",
+        "public_id": "gooseecrumbs_scheduled/ajeyas29tzflebjscglm"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748578/gooseecrumbs_scheduled/fest0pinqvle4e7gw5uo.jpg",
+        "public_id": "gooseecrumbs_scheduled/fest0pinqvle4e7gw5uo"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748581/gooseecrumbs_scheduled/jzqwd4shhbpomtku5ygr.jpg",
+        "public_id": "gooseecrumbs_scheduled/jzqwd4shhbpomtku5ygr"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748584/gooseecrumbs_scheduled/zjrzkqqtzafnxykiqkqu.jpg",
+        "public_id": "gooseecrumbs_scheduled/zjrzkqqtzafnxykiqkqu"
+      }
+    ],
+    "source": [
+      "slide_01.jpg",
+      "slide_02.jpg",
+      "slide_03.jpg",
+      "slide_04.jpg",
+      "slide_05.jpg",
+      "slide_06.jpg",
+      "slide_07.jpg"
+    ]
+  },
+  {
     "id": "day20",
     "type": "photo",
     "publish_at": "2026-10-17T10:30:00+05:30",
@@ -142,6 +280,52 @@
     ]
   },
   {
+    "id": "day22",
+    "type": "carousel",
+    "publish_at": "2026-10-19T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Save this and send it to your study group 📌\n\n#examprep #studyplan #examseason #studytips #studentlife",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748587/gooseecrumbs_scheduled/o7nrpesuz0ptpidzwglo.jpg",
+        "public_id": "gooseecrumbs_scheduled/o7nrpesuz0ptpidzwglo"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748590/gooseecrumbs_scheduled/yq0okkl9hyjsvqgmlzin.jpg",
+        "public_id": "gooseecrumbs_scheduled/yq0okkl9hyjsvqgmlzin"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748593/gooseecrumbs_scheduled/vugcgwhsphgh8v1sobdn.jpg",
+        "public_id": "gooseecrumbs_scheduled/vugcgwhsphgh8v1sobdn"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748596/gooseecrumbs_scheduled/dkrgww3toahpybaitiui.jpg",
+        "public_id": "gooseecrumbs_scheduled/dkrgww3toahpybaitiui"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748599/gooseecrumbs_scheduled/uxaqs8ttvbg2rpoykfs8.jpg",
+        "public_id": "gooseecrumbs_scheduled/uxaqs8ttvbg2rpoykfs8"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748601/gooseecrumbs_scheduled/qzupsw49she7hoakcyao.jpg",
+        "public_id": "gooseecrumbs_scheduled/qzupsw49she7hoakcyao"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748604/gooseecrumbs_scheduled/atagz9mrg7jqu1ggutiz.jpg",
+        "public_id": "gooseecrumbs_scheduled/atagz9mrg7jqu1ggutiz"
+      }
+    ],
+    "source": [
+      "slide_01.jpg",
+      "slide_02.jpg",
+      "slide_03.jpg",
+      "slide_04.jpg",
+      "slide_05.jpg",
+      "slide_06.jpg",
+      "slide_07.jpg"
+    ]
+  },
+  {
     "id": "day25",
     "type": "photo",
     "publish_at": "2026-10-22T10:30:00+05:30",
@@ -155,6 +339,52 @@
     ],
     "source": [
       "slide_01.jpg"
+    ]
+  },
+  {
+    "id": "day27",
+    "type": "carousel",
+    "publish_at": "2026-10-24T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Which slide called you out? 😂\n\n#studentbudget #collegelife #money #relatable #studentlife",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748608/gooseecrumbs_scheduled/r4j3rhtdtj91asniu2lh.jpg",
+        "public_id": "gooseecrumbs_scheduled/r4j3rhtdtj91asniu2lh"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748610/gooseecrumbs_scheduled/co1wjxa3yuuxm0ndm1x7.jpg",
+        "public_id": "gooseecrumbs_scheduled/co1wjxa3yuuxm0ndm1x7"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748613/gooseecrumbs_scheduled/cixaon4rpvyjyqk67r6q.jpg",
+        "public_id": "gooseecrumbs_scheduled/cixaon4rpvyjyqk67r6q"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748616/gooseecrumbs_scheduled/qo0twfpwt8kz8szm4bxe.jpg",
+        "public_id": "gooseecrumbs_scheduled/qo0twfpwt8kz8szm4bxe"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748619/gooseecrumbs_scheduled/vnk5dpumpfudgkdqtv9r.jpg",
+        "public_id": "gooseecrumbs_scheduled/vnk5dpumpfudgkdqtv9r"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748622/gooseecrumbs_scheduled/hovrzrxnedvhnhwhpk31.jpg",
+        "public_id": "gooseecrumbs_scheduled/hovrzrxnedvhnhwhpk31"
+      },
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/image/upload/v1790748625/gooseecrumbs_scheduled/pzrbu0q8b7tr4ynhva2b.jpg",
+        "public_id": "gooseecrumbs_scheduled/pzrbu0q8b7tr4ynhva2b"
+      }
+    ],
+    "source": [
+      "slide_01.jpg",
+      "slide_02.jpg",
+      "slide_03.jpg",
+      "slide_04.jpg",
+      "slide_05.jpg",
+      "slide_06.jpg",
+      "slide_07.jpg"
     ]
   },
   {
