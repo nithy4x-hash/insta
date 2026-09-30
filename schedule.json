@@ -172,6 +172,22 @@
     ]
   },
   {
+    "id": "day11",
+    "type": "reel",
+    "publish_at": "2026-10-08T10:30:00+05:30",
+    "status": "pending",
+    "caption": "If you needed this today, it was meant for you. You're not done 🤍\n\n#studymotivation #failure #comeback #studentlife #mindset",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790749718/gooseecrumbs_scheduled/jitxzaz8jy0efb4oqo9i.mp4",
+        "public_id": "gooseecrumbs_scheduled/jitxzaz8jy0efb4oqo9i"
+      }
+    ],
+    "source": [
+      "Day 11 - Failed a subject - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
     "id": "day12",
     "type": "carousel",
     "publish_at": "2026-10-09T10:30:00+05:30",
