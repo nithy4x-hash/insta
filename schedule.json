@@ -204,6 +204,22 @@
     ]
   },
   {
+    "id": "day10",
+    "type": "reel",
+    "publish_at": "2026-10-07T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Which one did you say this week? 😅\n\n#collegelife #studentlife #relatable #collegememes #procrastination",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790750076/gooseecrumbs_scheduled/cu2or9hlidz1lorrtwog.mp4",
+        "public_id": "gooseecrumbs_scheduled/cu2or9hlidz1lorrtwog"
+      }
+    ],
+    "source": [
+      "Day 10 - Things students say - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
     "id": "day11",
     "type": "reel",
     "publish_at": "2026-10-08T10:30:00+05:30",
