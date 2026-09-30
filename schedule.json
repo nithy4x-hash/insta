@@ -69,7 +69,7 @@
     "id": "day03",
     "type": "reel",
     "publish_at": "2026-09-30T16:10:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "5 rules that make every semester easier. Save it and thank yourself later 📌\n\n#studytips #collegelife #semester #studentlife #productivity",
     "media": [
       {
@@ -79,7 +79,9 @@
     ],
     "source": [
       "Day 03 - 5 semester rules - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-09-30T10:40:47+00:00",
+    "permalink": "https://www.instagram.com/reel/Dd6JDcHjQLH/"
   },
   {
     "id": "day04",
