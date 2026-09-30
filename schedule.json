@@ -298,6 +298,22 @@
     ]
   },
   {
+    "id": "day14",
+    "type": "reel",
+    "publish_at": "2026-10-11T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Tag your exam buddy who always skips the one chapter that comes 💀\n\n#exammemes #examseason #collegelife #relatable #studentlife",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790750813/gooseecrumbs_scheduled/wzmgqqutxfq3tk1pwywb.mp4",
+        "public_id": "gooseecrumbs_scheduled/wzmgqqutxfq3tk1pwywb"
+      }
+    ],
+    "source": [
+      "Day 14 - Exam hall skipped chapter - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
     "id": "day15",
     "type": "reel",
     "publish_at": "2026-10-12T10:30:00+05:30",
@@ -311,6 +327,22 @@
     ],
     "source": [
       "Day 15 - 2-minute rule - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
+    "id": "day16",
+    "type": "reel",
+    "publish_at": "2026-10-13T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Call home today 🤍\n\n#motivation #family #studentlife #collegelife #emotional",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790750822/gooseecrumbs_scheduled/reifrl3c9nhhuymvt0ab.mp4",
+        "public_id": "gooseecrumbs_scheduled/reifrl3c9nhhuymvt0ab"
+      }
+    ],
+    "source": [
+      "Day 16 - Someone is proud of you - gooseecrumbs 1080x1920.mp4"
     ]
   },
   {
