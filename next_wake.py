@@ -44,7 +44,7 @@ def main():
     overdue = [t for t in times if t <= now - dt.timedelta(seconds=SKIP)]
     upcoming = [t for t in times if t > now + dt.timedelta(seconds=SKIP)]
     if overdue:
-        print("sleep=0\npost=yes")
+        print("sleep=%d\npost=yes" % RETRY)
         return
     if not upcoming:  # the only pending post is being posted right now
         print("sleep=%d\npost=no" % (SKIP * 2))
