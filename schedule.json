@@ -21,7 +21,7 @@
     "id": "day02",
     "type": "carousel",
     "publish_at": "2026-09-30T14:45:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Be honest, which one are you? Tag your group project team 😭\n\n#collegelife #groupproject #studentlife #collegememes #relatable",
     "media": [
       {
@@ -61,7 +61,9 @@
       "slide_05.jpg",
       "slide_06.jpg",
       "slide_07.jpg"
-    ]
+    ],
+    "posted_at": "2026-09-30T10:04:19+00:00",
+    "permalink": "https://www.instagram.com/p/Dd6E6icG_bz/"
   },
   {
     "id": "day03",
