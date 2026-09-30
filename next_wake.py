@@ -15,7 +15,10 @@ Notes:
     workflow's own GITHUB_TOKEN via workflow_dispatch IS allowed to start new
     runs, so the timer keeps itself going without cron and without any key
     outside GitHub.
-  - Posts already overdue (e.g. after an outage) are started straight away.
+  - Posts already overdue (e.g. after an outage) are retried every RETRY
+    seconds, not straight away: on 30 Sep 2026 Instagram answered "API access
+    blocked" for hours, and an instant retry would loop every few minutes and
+    send a GitHub failure email each time.
   - The target skips posts due within SKIP seconds, because the one just
     started may not have saved "posted" yet when the next timer checks.
 """
@@ -27,6 +30,7 @@ import os
 LEAD = 120          # wake 2 minutes before a post
 MAX_SLEEP = 5 * 3600 + 30 * 60   # 5 h 30 min, under GitHub's 6 h job limit
 SKIP = 180
+RETRY = 30 * 60
 SCHEDULE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "schedule.json")
 
 
