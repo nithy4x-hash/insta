@@ -470,6 +470,22 @@
     ]
   },
   {
+    "id": "day26",
+    "type": "reel",
+    "publish_at": "2026-10-23T10:30:00+05:30",
+    "status": "pending",
+    "caption": "Answer them in your notes app tonight 🌙\n\n#journaling #selfgrowth #studentlife #nightroutine #mindset",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790750630/gooseecrumbs_scheduled/rlbvegdbmibrfjbwbend.mp4",
+        "public_id": "gooseecrumbs_scheduled/rlbvegdbmibrfjbwbend"
+      }
+    ],
+    "source": [
+      "Day 26 - 3 questions every night - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
     "id": "day27",
     "type": "carousel",
     "publish_at": "2026-10-24T10:30:00+05:30",
