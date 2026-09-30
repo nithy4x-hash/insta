@@ -94,6 +94,22 @@
     ]
   },
   {
+    "id": "day05",
+    "type": "reel",
+    "publish_at": "2026-10-02T10:30:00+05:30",
+    "status": "pending",
+    "caption": "We've all been here. What time did you finish your last assignment? ⏰\n\n#collegelife #assignment #procrastination #studentproblems #relatable",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1790749590/gooseecrumbs_scheduled/qra8eexrmfitkcx6zigr.mp4",
+        "public_id": "gooseecrumbs_scheduled/qra8eexrmfitkcx6zigr"
+      }
+    ],
+    "source": [
+      "Day 05 - 2 AM assignment - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
     "id": "day07",
     "type": "carousel",
     "publish_at": "2026-10-04T10:30:00+05:30",
