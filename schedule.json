@@ -141,7 +141,7 @@
     "id": "day07",
     "type": "carousel",
     "publish_at": "2026-10-01T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Which one are you trying first? Save this for exam season 📚\n\n#studytips #studymethods #studygram #examprep #studentlife",
     "media": [
       {
@@ -181,7 +181,9 @@
       "slide_05.jpg",
       "slide_06.jpg",
       "slide_07.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-01T05:00:42+00:00",
+    "permalink": "https://www.instagram.com/p/Dd8G9t-lbu5/"
   },
   {
     "id": "day08",
