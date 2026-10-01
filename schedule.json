@@ -207,7 +207,7 @@
     "id": "day09",
     "type": "photo",
     "publish_at": "2026-10-01T20:00:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "The library is the best place to sleep and nobody can change my mind 😴\n\n#collegememes #studentlife #library #relatable #collegelife",
     "media": [
       {
@@ -217,7 +217,9 @@
     ],
     "source": [
       "slide_01.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-01T14:30:18+00:00",
+    "permalink": "https://www.instagram.com/p/Dd9IJm3m5Yq/"
   },
   {
     "id": "day10",
