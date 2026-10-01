@@ -189,7 +189,7 @@
     "id": "day08",
     "type": "reel",
     "publish_at": "2026-10-01T15:00:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Don't wait to feel ready. Just show up. 💪\n\n#discipline #studymotivation #morningroutine #collegelife #mindset",
     "media": [
       {
@@ -199,7 +199,9 @@
     ],
     "source": [
       "Day 08 - Discipline - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-01T09:30:38+00:00",
+    "permalink": "https://www.instagram.com/reel/Dd8l03tjFdg/"
   },
   {
     "id": "day09",
