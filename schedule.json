@@ -225,7 +225,7 @@
     "id": "day10",
     "type": "reel",
     "publish_at": "2026-10-02T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Which one did you say this week? 😅\n\n#collegelife #studentlife #relatable #collegememes #procrastination",
     "media": [
       {
@@ -235,7 +235,9 @@
     ],
     "source": [
       "Day 10 - Things students say - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-02T05:00:38+00:00",
+    "permalink": "https://www.instagram.com/reel/Dd-rt1sCc9b/"
   },
   {
     "id": "day11",
