@@ -261,7 +261,7 @@
     "id": "day12",
     "type": "carousel",
     "publish_at": "2026-10-04T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Freshers, save this. Seniors, what would you add? 👇\n\n#freshers #collegetips #firstyear #studentlife #collegelife",
     "media": [
       {
@@ -301,7 +301,9 @@
       "slide_05.jpg",
       "slide_06.jpg",
       "slide_07.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-04T05:00:42+00:00",
+    "permalink": "https://www.instagram.com/p/DeD1WL9Fn5X/"
   },
   {
     "id": "day13",
