@@ -309,7 +309,7 @@
     "id": "day13",
     "type": "photo",
     "publish_at": "2026-10-05T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "What's one small thing you'll do today for your big dream? ✍️\n\n#goals #motivation #studymotivation #studentlife #aesthetic",
     "media": [
       {
@@ -319,7 +319,9 @@
     ],
     "source": [
       "slide_01.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-05T05:00:21+00:00",
+    "permalink": "https://www.instagram.com/p/DeGaGUJkYNG/"
   },
   {
     "id": "day14",
