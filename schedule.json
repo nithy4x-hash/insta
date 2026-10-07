@@ -378,6 +378,22 @@
     "permalink": "https://www.instagram.com/reel/DeMaoYagKFY/"
   },
   {
+    "id": "tamil002",
+    "type": "reel",
+    "publish_at": "2026-10-07T22:15:00+05:30",
+    "status": "pending",
+    "caption": "Unga class-la evlo paati expire aanaanga? 😂\n\n#tamilcomedy #schoollife #leaveletter #tamilreels #chennai #teacherstudent #2kkids #shorts",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386479/gooseecrumbs_scheduled/gswgktvsbzlakcsyroiy.mp4",
+        "public_id": "gooseecrumbs_scheduled/gswgktvsbzlakcsyroiy"
+      }
+    ],
+    "source": [
+      "reel_002.mp4"
+    ]
+  },
+  {
     "id": "day16",
     "type": "reel",
     "publish_at": "2026-10-08T10:30:00+05:30",
@@ -391,6 +407,38 @@
     ],
     "source": [
       "Day 16 - Someone is proud of you - gooseecrumbs 1080x1920.mp4"
+    ]
+  },
+  {
+    "id": "tamil003",
+    "type": "reel",
+    "publish_at": "2026-10-08T12:30:00+05:30",
+    "status": "pending",
+    "caption": "PT period-a thirudunadhu yaaru? Maths miss-aa illa Science sir-aa? 👇\n\n#tamilcomedy #ptperiod #schoollife #tamilreels #chennai #90skids #2kkids #shorts",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386496/gooseecrumbs_scheduled/ztlzfepr08jvqfhjyocv.mp4",
+        "public_id": "gooseecrumbs_scheduled/ztlzfepr08jvqfhjyocv"
+      }
+    ],
+    "source": [
+      "reel_003.mp4"
+    ]
+  },
+  {
+    "id": "tamil004",
+    "type": "reel",
+    "publish_at": "2026-10-08T20:00:00+05:30",
+    "status": "pending",
+    "caption": "Indha friend-a tag pannunga 😤📚\n\n#tamilcomedy #examtime #topper #schoollife #tamilreels #chennai #2kkids #shorts",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386513/gooseecrumbs_scheduled/nuankqn9cpofvguvfyzo.mp4",
+        "public_id": "gooseecrumbs_scheduled/nuankqn9cpofvguvfyzo"
+      }
+    ],
+    "source": [
+      "reel_004.mp4"
     ]
   },
   {
@@ -440,19 +488,19 @@
     ]
   },
   {
-    "id": "tamil002",
+    "id": "tamil005",
     "type": "reel",
-    "publish_at": "2026-10-09T18:30:00+05:30",
+    "publish_at": "2026-10-09T12:30:00+05:30",
     "status": "pending",
-    "caption": "Unga class-la evlo paati expire aanaanga? 😂\n\n#tamilcomedy #schoollife #leaveletter #tamilreels #chennai #teacherstudent #2kkids #shorts",
+    "caption": "Monday fever irukuravanga attendance podunga 🙋‍♂️😂\n\n#tamilcomedy #collegelife #attendance #engineeringlife #tamilreels #chennai #mondayblues #shorts",
     "media": [
       {
-        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386479/gooseecrumbs_scheduled/gswgktvsbzlakcsyroiy.mp4",
-        "public_id": "gooseecrumbs_scheduled/gswgktvsbzlakcsyroiy"
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386530/gooseecrumbs_scheduled/qxrhvimmon2ox7zdrffk.mp4",
+        "public_id": "gooseecrumbs_scheduled/qxrhvimmon2ox7zdrffk"
       }
     ],
     "source": [
-      "reel_002.mp4"
+      "reel_005.mp4"
     ]
   },
   {
@@ -501,22 +549,6 @@
     ],
     "source": [
       "slide_01.jpg"
-    ]
-  },
-  {
-    "id": "tamil003",
-    "type": "reel",
-    "publish_at": "2026-10-12T18:30:00+05:30",
-    "status": "pending",
-    "caption": "PT period-a thirudunadhu yaaru? Maths miss-aa illa Science sir-aa? 👇\n\n#tamilcomedy #ptperiod #schoollife #tamilreels #chennai #90skids #2kkids #shorts",
-    "media": [
-      {
-        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386496/gooseecrumbs_scheduled/ztlzfepr08jvqfhjyocv.mp4",
-        "public_id": "gooseecrumbs_scheduled/ztlzfepr08jvqfhjyocv"
-      }
-    ],
-    "source": [
-      "reel_003.mp4"
     ]
   },
   {
@@ -582,22 +614,6 @@
     ]
   },
   {
-    "id": "tamil004",
-    "type": "reel",
-    "publish_at": "2026-10-14T18:30:00+05:30",
-    "status": "pending",
-    "caption": "Indha friend-a tag pannunga 😤📚\n\n#tamilcomedy #examtime #topper #schoollife #tamilreels #chennai #2kkids #shorts",
-    "media": [
-      {
-        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386513/gooseecrumbs_scheduled/nuankqn9cpofvguvfyzo.mp4",
-        "public_id": "gooseecrumbs_scheduled/nuankqn9cpofvguvfyzo"
-      }
-    ],
-    "source": [
-      "reel_004.mp4"
-    ]
-  },
-  {
     "id": "day23",
     "type": "reel",
     "publish_at": "2026-10-15T10:30:00+05:30",
@@ -627,22 +643,6 @@
     ],
     "source": [
       "Day 24 - Sunday reset - gooseecrumbs 1080x1920.mp4"
-    ]
-  },
-  {
-    "id": "tamil005",
-    "type": "reel",
-    "publish_at": "2026-10-16T18:30:00+05:30",
-    "status": "pending",
-    "caption": "Monday fever irukuravanga attendance podunga 🙋‍♂️😂\n\n#tamilcomedy #collegelife #attendance #engineeringlife #tamilreels #chennai #mondayblues #shorts",
-    "media": [
-      {
-        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386530/gooseecrumbs_scheduled/qxrhvimmon2ox7zdrffk.mp4",
-        "public_id": "gooseecrumbs_scheduled/qxrhvimmon2ox7zdrffk"
-      }
-    ],
-    "source": [
-      "reel_005.mp4"
     ]
   },
   {
