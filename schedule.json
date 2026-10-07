@@ -345,7 +345,7 @@
     "id": "day15",
     "type": "reel",
     "publish_at": "2026-10-07T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Try it right now. Two minutes. Tell me in the comments if it worked ⏱️\n\n#studytips #productivity #procrastination #studymotivation #studentlife",
     "media": [
       {
@@ -355,7 +355,9 @@
     ],
     "source": [
       "Day 15 - 2-minute rule - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-07T05:00:38+00:00",
+    "permalink": "https://www.instagram.com/reel/DeLjsajkzVl/"
   },
   {
     "id": "day16",
