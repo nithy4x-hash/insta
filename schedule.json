@@ -440,6 +440,22 @@
     ]
   },
   {
+    "id": "tamil002",
+    "type": "reel",
+    "publish_at": "2026-10-09T18:30:00+05:30",
+    "status": "pending",
+    "caption": "Unga class-la evlo paati expire aanaanga? 😂\n\n#tamilcomedy #schoollife #leaveletter #tamilreels #chennai #teacherstudent #2kkids #shorts",
+    "media": [
+      {
+        "url": "https://res.cloudinary.com/rpjla1vc/video/upload/v1791386479/gooseecrumbs_scheduled/gswgktvsbzlakcsyroiy.mp4",
+        "public_id": "gooseecrumbs_scheduled/gswgktvsbzlakcsyroiy"
+      }
+    ],
+    "source": [
+      "reel_002.mp4"
+    ]
+  },
+  {
     "id": "day18",
     "type": "reel",
     "publish_at": "2026-10-10T10:30:00+05:30",
