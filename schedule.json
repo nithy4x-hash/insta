@@ -381,7 +381,7 @@
     "id": "tamil002",
     "type": "reel",
     "publish_at": "2026-10-07T22:15:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Unga class-la evlo paati expire aanaanga? 😂\n\n#tamilcomedy #schoollife #leaveletter #tamilreels #chennai #teacherstudent #2kkids #shorts",
     "media": [
       {
@@ -391,7 +391,9 @@
     ],
     "source": [
       "reel_002.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-07T16:46:32+00:00",
+    "permalink": "https://www.instagram.com/reel/DeM0ez0jxRX/"
   },
   {
     "id": "day16",
