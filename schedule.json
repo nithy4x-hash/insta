@@ -435,7 +435,7 @@
     "id": "tamil004",
     "type": "reel",
     "publish_at": "2026-10-08T20:00:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Indha friend-a tag pannunga 😤📚\n\n#tamilcomedy #examtime #topper #schoollife #tamilreels #chennai #2kkids #shorts",
     "media": [
       {
@@ -445,7 +445,9 @@
     ],
     "source": [
       "reel_004.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-08T14:30:38+00:00",
+    "permalink": "https://www.instagram.com/reel/DePJuDMATMJ/"
   },
   {
     "id": "day17",
