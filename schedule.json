@@ -399,7 +399,7 @@
     "id": "day16",
     "type": "reel",
     "publish_at": "2026-10-08T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Call home today 🤍\n\n#motivation #family #studentlife #collegelife #emotional",
     "media": [
       {
@@ -409,7 +409,9 @@
     ],
     "source": [
       "Day 16 - Someone is proud of you - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-08T05:00:36+00:00",
+    "permalink": "https://www.instagram.com/reel/DeOIgPzldQT/"
   },
   {
     "id": "tamil003",
