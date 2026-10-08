@@ -417,7 +417,7 @@
     "id": "tamil003",
     "type": "reel",
     "publish_at": "2026-10-08T12:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "PT period-a thirudunadhu yaaru? Maths miss-aa illa Science sir-aa? 👇\n\n#tamilcomedy #ptperiod #schoollife #tamilreels #chennai #90skids #2kkids #shorts",
     "media": [
       {
@@ -427,7 +427,9 @@
     ],
     "source": [
       "reel_003.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-08T07:00:36+00:00",
+    "permalink": "https://www.instagram.com/reel/DeOWOD8kiWf/"
   },
   {
     "id": "tamil004",
