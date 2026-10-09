@@ -453,7 +453,7 @@
     "id": "day17",
     "type": "carousel",
     "publish_at": "2026-10-09T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "What's the one thing your dorm can't survive without? 👇\n\n#dormlife #hostellife #collegelife #studentlife #relatable",
     "media": [
       {
@@ -493,7 +493,9 @@
       "slide_05.jpg",
       "slide_06.jpg",
       "slide_07.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-09T05:00:48+00:00",
+    "permalink": "https://www.instagram.com/p/DeQtVZUEdKB/"
   },
   {
     "id": "tamil005",
