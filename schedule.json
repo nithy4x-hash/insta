@@ -519,7 +519,7 @@
     "id": "day18",
     "type": "reel",
     "publish_at": "2026-10-10T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "Your pace is your pace 📖\n\n#comparison #selfgrowth #motivation #studentlife #mindset",
     "media": [
       {
@@ -529,7 +529,9 @@
     ],
     "source": [
       "Day 18 - Chapter 1 vs chapter 20 - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-10T05:00:37+00:00",
+    "permalink": "https://www.instagram.com/reel/DeTSFkSjAnT/"
   },
   {
     "id": "day19",
