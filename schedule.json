@@ -573,7 +573,7 @@
     "id": "day21",
     "type": "reel",
     "publish_at": "2026-10-13T10:30:00+05:30",
-    "status": "pending",
+    "status": "posted",
     "caption": "How many applications have you sent this month? Keep going 🚀\n\n#internship #careeradvice #rejection #studentlife #motivation",
     "media": [
       {
@@ -583,7 +583,9 @@
     ],
     "source": [
       "Day 21 - Rejected from an internship - gooseecrumbs 1080x1920.mp4"
-    ]
+    ],
+    "posted_at": "2026-10-13T05:00:38+00:00",
+    "permalink": "https://www.instagram.com/reel/DebAdlBjHBS/"
   },
   {
     "id": "day22",
